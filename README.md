@@ -1,6 +1,6 @@
 # Simulation Environments — Guest Lecture Edition
 
-Note: This repo was developed for a guest lecture demonstration on Agents in Applied Data Science. It includes working demos from 2023, but is not actively maintained.
+Note: This repo was developed for a guest lecture demonstration on Agents in Applied Data Science. It includes working demos from 2024, but is not actively maintained.
 
 Minimal, testable, and production-style RL training loops built for teaching.
 Implements:
@@ -9,7 +9,7 @@ Implements:
  
 	•	Minitaur (SAC) — continuous control for quadrupeds via PyBullet; GPU recommended.
 
-Originally developed for a 2025 guest lecture in Applied Machine Learning.
+Originally developed for a 2024 guest lecture in Applied Machine Learning.
 
 ---
 
